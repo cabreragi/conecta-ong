@@ -1,5 +1,5 @@
 # Conecta ONG
-
+![Prévia do projeto](imagens/preview.png)
 Plataforma web desenvolvida para divulgação de projetos sociais, captação de doações e incentivo ao voluntariado.
 
 ## Sobre o projeto
